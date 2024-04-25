@@ -10,7 +10,7 @@
   🌟 Interesado en trabajar en equipo ⭐<br>
 </p>
 
-<h3>Redes Sociales:</h3>
+<h2 class="heading-element" dir="auto">🌐 Socials:</h2>
 <ul>
   <li><a href="https://www.youtube.com/tucanal" target="_blank">YouTube</a></li>
   <li><a href="https://www.tiktok.com/@tucuenta" target="_blank">TikTok</a></li>
