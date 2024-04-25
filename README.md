@@ -1,3 +1,7 @@
+<h1>Hola 👋 Soy Deivid
+</h1>
+<h2>💫 Sobre mí:
+</h2>
 💻 Actualmente soy desarrollador frontend
 🌱 Estoy estudiando para convertirme en un desarrollador fullstack
 🔭 Trabajando en mis propios proyectos
