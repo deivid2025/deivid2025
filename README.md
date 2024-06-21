@@ -1,62 +1,91 @@
+## Hey there 👋, I'm [Deivid!](https://github.com/deivid2025)
 
-[![ Pronouns         ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&color=eeeeee)]()
-[![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
-[![ Personality Type ](https://img.shields.io/badge/[%20ISTJ%20]-informational?style=flat-square&color=eeeeee)]()
-- 🔓 Cyber Security Analysis Specialist
-- 🐉 Offensive Security Certified Professional [![ OSCP ](https://img.shields.io/badge/(%20OSCP%20)-informational?style=flat-square&color=eeeeee)]()
-- ⚙️ I take part in Web/Mobile Application Penetration Testing
-@@ -32,7 +31,7 @@
-## Technologies
-[![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
-[![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
-[![ OS: Linux Mint       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Linux%20Mint&logo=linuxmint)]()
-[![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
-[![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
-[![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
-[![ Code: React          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=React&logo=react)]()
-@@ -43,29 +42,38 @@
-[![ Tool: IntelliJ IDEA  ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=IntelliJ%20IDEA&logo=intellijidea)]()
-[![ Tool: WebStorm       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=WebStorm&logo=webstorm)]()
-[![ Tool: Android Studio ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=Android%20Studio&logo=androidstudio)]()
-<br><p></p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deivid)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davidgaray)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/david_garay2)
 
-`[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[IDA Pro]` `[Immunity Debugger]` `[edb]` ...
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-<br>
+I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
-<div align=center>
-	<p>My Telegram channel: <b><a href="https://t.me/hahacking">HaHacking</a></b></p>
-</div>
-<div align=center>
-	<a href="https://t.me/qwqoro">
-		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/telegram.svg"/>
-		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
-	</a>&nbsp;
-	<a href="https://habr.com/ru/users/qwqoro/">
-		<img width=36 height=36 alt="Habr" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/habr.svg"/>
-	</a>&nbsp;
-	<a href="https://vk.com/qwqoro">
-		<img width=36 height=36 alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/vk.svg"/>
-		<img width=36 height=36 alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/vk.svg"/>
-	</a>&nbsp;
-	<a href="https://open.spotify.com/user/312b5tdw2ettpsksk2bkp4f7bsuu">
-		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/spotify.svg"/>
-		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/spotify.svg"/>
-	</a>&nbsp;
-	<a href="https://steamcommunity.com/id/qwqoro">
-		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/steam.svg"/>
-		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/steam.svg"/>
-	</a>&nbsp;
-	<a href="https://app.hackthebox.com/profile/230798">
-		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackthebox.svg"/>
-		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
-	</a>&nbsp;
-	<a href="mailto:qwqoro@ya.ru">
-		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/gmail.svg"/>
-		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
-	</a>&nbsp;
-	<a href="https://matrix.to/#/@qwqoro:matrix.org">
-		<img width=36 height=36 alt="Matrix" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/matrix.svg"/>
-		<img width=36 height=36 alt="Matrix" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/matrix.svg"/>
-	</a>
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+
+Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Joined Github **5** years ago.
+
+Since then I pushed **3133**+ commits, opened **229**+ issues, submitted **460**+ pull requests, created **20**+ gists and contributed to **8**+ public repositories.
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; Estoy trabajando actualmente con JS, Dj, AWS, etc.
+- 🚀 &nbsp; Estoy explorando actualmente ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/deivid2025)!Me alegro de poder ayudar..
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Póngase en contacto conmigo: davidgaray948@gmail.com
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir cosas geniales.
+- 📰 &nbsp; Leo, escribo y veo contenido tecnológico siempre que puedo.
+- 🍕 &nbsp; Eventos, meetups y hackathones relacionados con la tecnología.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Django"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b>Windows 10</li>
+	    <li><b>Laptop: </b> ASUS Core i9-13900H con una RTX 4090 </li>
+  	    <li><b>Browser: </b> Chrome & Firefox</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
