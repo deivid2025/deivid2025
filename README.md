@@ -1,33 +1,57 @@
-<h1>Hola 👋 Soy Deivid</h1>
-<h2>💫 Sobre mí:</h2>
-<p>
-  💻 Actualmente soy desarrollador frontend<br>
-  🌱 Estoy estudiando para convertirme en un desarrollador fullstack<br>
-  🔭 Trabajando en mis propios proyectos<br>
-  👯 Busco colaborar con otros desarrolladores<br>
-  🌐 Aprendiendo desarrollo web<br>
-  💡 Pregúntame sobre diseño web y usabilidad<br>
-  🌟 Interesado en trabajar en equipo ⭐<br>
-</p>
+@@ -5,7 +5,6 @@
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+[![ Pronouns         ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&color=eeeeee)]()
+[![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
+[![ Personality Type ](https://img.shields.io/badge/[%20ISTJ%20]-informational?style=flat-square&color=eeeeee)]()
+- 🔓 Cyber Security Analysis Specialist
+- 🐉 Offensive Security Certified Professional [![ OSCP ](https://img.shields.io/badge/(%20OSCP%20)-informational?style=flat-square&color=eeeeee)]()
+- ⚙️ I take part in Web/Mobile Application Penetration Testing
+@@ -32,7 +31,7 @@
+## Technologies
+[![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
+[![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
+[![ OS: Linux Mint       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Linux%20Mint&logo=linuxmint)]()
+[![ Code: Bash           ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Bash&logo=gnubash)]()
+[![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
+[![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
+[![ Code: React          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=React&logo=react)]()
+@@ -43,29 +42,38 @@
+[![ Tool: IntelliJ IDEA  ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=IntelliJ%20IDEA&logo=intellijidea)]()
+<br><p></p>
 
+`[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[IDA Pro]` `[Immunity Debugger]` `[edb]` ...
 
-<h3>Stack de Frontend:</h3>
-<ul>
-  <li>React.js</li>
-  <li>HTML/CSS</li>
-  <li>Django</li>
-  <li>AWS</li>
-  <li>Canva</li>
-  <li>Photoshop</li>
-  <li>Redux</li>
-  <li>Python</li>
-  <li>Linux</li>
-  <li>Debian</li>
-  <li>Kali</li>
-</ul>
+<br>
 
-<p>
-  No dudes en contactarme para oportunidades de colaboración o si tienes alguna pregunta relacionada con diseño web, usabilidad o cualquier otra cosa. ¡Creemos algo increíble juntos! ⭐
-</p>
+<div align=center>
+	<p>My Telegram channel: <b><a href="https://t.me/hahacking">HaHacking</a></b></p>
+</div>
+<div align=center>
+	<a href="https://t.me/migrupo">
+		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/telegram.svg"/>
+		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
+	</a>&nbsp;
+	<a href="https://habr.com/ru/users/miuser/">
+		<img width=36 height=36 alt="Habr" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/habr.svg"/>
+	</a>&nbsp;
+  <a href="https://open.spotify.com/user/miiduser">
+		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/spotify.svg"/>
+		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/spotify.svg"/>
+	</a>&nbsp;
+	<a href="https://steamcommunity.com/id/miuser">
+		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/steam.svg"/>
+		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/steam.svg"/>
+	</a>&nbsp;
+	<a href="https://app.hackthebox.com/profile/twentyfix">
+		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackthebox.svg"/>
+		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
+	</a>&nbsp;
+	<a href="mailto:qwqoro@ya.ru">
+		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/gmail.svg"/>
+		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
+	</a>&nbsp;
+	<a href="https://matrix.to/#/@qwqoro:matrix.org">
+		<img width=36 height=36 alt="Matrix" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/matrix.svg"/>
+		<img width=36 height=36 alt="Matrix" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/matrix.svg"/>
+	</a>
+</div>
