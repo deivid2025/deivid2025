@@ -6,15 +6,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+🖥️ ¡Soy un desarrollador Front-end y me estoy preparando para ser un crack Full Stack!
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+🚀 ¡Estoy trabajando en un proyecto de e-commerce con un amigo usando Django, y la estamos rompiendo!
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+🔒 De momento, me estoy preparando para obtener el certificado OSCP de hacking, y en mis ratos libres me divierto practicando en TryHackMe y HackTheBox. ¡Soy todo un hacker en ciernes!
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+🤖 ¡Me apasiona la IA y el ML, y me encanta automatizar tareas repetitivas para evitar el aburrimiento!
 
-Joined Github **5** years ago.
+🎥 Cuando no estoy codificando, me encontrarás viendo videos de YouTube relacionados con tecnología, o disfrutando de algunas series y anime. ¡Soy un verdadero geek!
+
+🌟 ¡No dudes en conectarte conmigo @davidgaray948@gmail.com para charlar sobre tecnología o simplemente para saludar! ¡Juntos vamos a darle forma al futuro de la tecnología! 🌟
+
+📅 ¡Llevo 3 años en GitHub, impulsando el código y rompiendo el sistema!
 
 Since then I pushed **3133**+ commits, opened **229**+ issues, submitted **460**+ pull requests, created **20**+ gists and contributed to **8**+ public repositories.
 
