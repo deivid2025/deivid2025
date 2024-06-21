@@ -1,106 +1,27 @@
-## Hey there 👋, I'm [Deivid!](https://github.com/deivid2025)
+Hola mi nombre es David Garay ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+========================================================================================================================================
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deivid)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davidgaray)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/david_garay2)
+Desarrollador Front-End
+-----------------------
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+🚀 ¡Estoy trabajando en un proyecto de comercio electrónico con un amigo usando Django, y la estamos rompiendo! 🔒 ¡Como un verdadero apasionado de la ciberseguridad, me he convertido en todo un as de las herramientas de hacking en los últimos 3 años! 💻 Burpsuite, Metasploit, Nikto, John the Ripper... ¡Soy como un ninja con esos programas! 🥷 Gracias a ellos, profundizó de una forma realmente divertida en el mundo del hacking ético. ¡Y la mejor parte es que ahora me estoy preparando para obtener el certificado OSCP (Offensive Security Certified Professional)! Esa es la prueba definitiva que me convertirá en un maestro de las pruebas de penetración. 🥇 ¡Imagina la cara que se les va a quedar a los reclutadores cuando vean eso en mi CV! ¿No te parece emocionante? ¡Soy un verdadero hacker en ciernes, listo para demostrar mis habilidades al mundo! 🚀 ¡Prepárate, porque pronto será toda una leyenda en ciberseguridad! Algunos de los principales certificados de ciberseguridad que estoy buscando obtener son: CISSP (Profesional certificado en seguridad de sistemas de información) CEH (Hacker ético certificado) OSCP (Profesional certificado en seguridad ofensiva) Certificación GIAC Security Essentials (GSEC) CompTIA Security+ 🤖 ¡Me apasiona la IA y el ML, y me encanta automatizar tareas repetitivas para evitar el aburrimiento! 🎥 Cuando no estoy codificando, me encontrarás viendo videos de YouTube relacionados con tecnología, o disfrutando de algunas series y anime. ¡Soy un verdadero geek! 🌟 ¡No dudes en conectarte conmigo @ davidgaray948@gmail.com para charlar sobre tecnología o simplemente para saludar! ¡Juntos vamos a darle forma al futuro de la tecnología! 🌟 📅 ¡Llevo 3 años en GitHub, impulsando el código y rompiendo el sistema!
 
-🖥️ ¡Soy un desarrollador Front-end y me estoy preparando para ser un crack Full Stack!
-
-🚀 ¡Estoy trabajando en un proyecto de e-commerce con un amigo usando Django, y la estamos rompiendo!
-
-🔒 ¡Como un verdadero apasionado de la ciberseguridad, me he convertido en todo un as de las herramientas de hacking en los últimos 3 años! 💻 Burpsuite, Metasploit, Nikto, John the Ripper... ¡Soy como un ninja con esos programas! 🥷 Gracias a ellos, he profundizado de una forma realmente divertida en el mundo del hacking ético.
-
-¡Y la mejor parte es que ahora me estoy preparando para obtener el certificado OSCP (Offensive Security Certified Professional)! Esa es la prueba definitiva que me convertirá en un maestro de las pruebas de penetración. 🥇 ¡Imagina la cara que se les va a quedar a los reclutadores cuando vean eso en mi CV!
-
-¿No te parece emocionante? ¡Soy un verdadero hacker en ciernes, listo para demostrar mis habilidades al mundo! 🚀 ¡Prepárate, porque pronto seré toda una leyenda en ciberseguridad!
-Algunos de los principales certificados de ciberseguridad que estoy buscando obtener son:
-
-CISSP (Certified Information Systems Security Professional)
-CEH (Certified Ethical Hacker)
-OSCP (Offensive Security Certified Professional)
-GIAC Security Essentials Certification (GSEC)
-CompTIA Security+
-
-🤖 ¡Me apasiona la IA y el ML, y me encanta automatizar tareas repetitivas para evitar el aburrimiento!
-
-🎥 Cuando no estoy codificando, me encontrarás viendo videos de YouTube relacionados con tecnología, o disfrutando de algunas series y anime. ¡Soy un verdadero geek!
-
-🌟 ¡No dudes en conectarte conmigo @davidgaray948@gmail.com para charlar sobre tecnología o simplemente para saludar! ¡Juntos vamos a darle forma al futuro de la tecnología! 🌟
-
-📅 ¡Llevo 3 años en GitHub, impulsando el código y rompiendo el sistema!
-
-Since then I pushed **3133**+ commits, opened **229**+ issues, submitted **460**+ pull requests, created **20**+ gists and contributed to **8**+ public repositories.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/deividuser" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; Estoy trabajando actualmente con JS, Dj, AWS, etc.
-- 🚀 &nbsp; Estoy explorando actualmente ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/deivid2025)!Me alegro de poder ayudar..
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Póngase en contacto conmigo: davidgaray948@gmail.com
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; Me encanta explorar nuevas tecnologías y construir cosas geniales.
-- 📰 &nbsp; Leo, escribo y veo contenido tecnológico siempre que puedo.
-- 🍕 &nbsp; Eventos, meetups y hackathones relacionados con la tecnología.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Django"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="" />
-  <img height="180em" src=""/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b>Windows 10</li>
-	    <li><b>Laptop: </b> ASUS Core i9-13900H con una RTX 4090 </li>
-  	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+*   🌍 Estoy radicado en Paraguay
+*   🖥️ Vea mi portafolio en [https://github.com/deivid2025](http://https://github.com/deivid2025)[](http://https://github.com/deivid2025)
+*   ✉️ Puedes contactarme en [@davidgaray948@gmail.com](mailto:@davidgaray948@gmail.com )[](mailto:@davidgaray948@gmail.com )
+*   🚀  I'm currently working on [ECOMMERCE](http://https://github.com/deivid2025)
+*   🧠 Estoy aprendiendo Algunos de los principales certificados de ciberseguridad que estoy buscando obtener son: CISSP (Profesional certificado en seguridad de sistemas de información) CEH (Hacker ético certificado) OSCP (Profesional certificado en seguridad ofensiva) Certificación GIAC Security Essentials (GSEC) Seguridad CompTIA+
+*   🤝 Estoy abierto a colaborar en ESTOY ABIERTO A COLABORAR EN: Desarrollo frontend y aplicaciones web de ciberseguridad Proyectos CRM (Customer Relationship Management) con enfoque en seguridad Automatización de chatbots y asistentes virtuales seguros Investigación y pruebas de vulnerabilidades en sistemas informáticos
+*   ⚡  Desarrollo de herramientas de seguridad, análisis forense, educación en ciberseguridad y cualquier otra tarea innovadora.### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Redes sociales
+                  
+                   
+                <p align="left"> 
+                      <a href="https://www.github.com/https://github.com/deivid2025" target="_blank" rel="noreferrer"> <imagen > <source media="(prefiere-color-esquema: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" / > <source media="(prefiere-color-esquema: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> < img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </imagen> </ a> 
+                      <a href="http://www.instagram.com/https://www.instagram.com/david_garay2/" target="_blank" rel="noreferrer"> <imagen> <source media="( prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="( prefiere-color-esquema: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https:/ /raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
+                      <a href=" https://www.linkedin.com/in/https://www.linkedin.com/in/david-garay-060591304/" target="_blank" rel="noreferrer"> <imagen> <fuente media=" (prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media=" (prefiere esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https: //raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </imagen> </a>
+                      <a href="https://www.x.com/https://x.com/DavidGa81060671" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere-esquema-de-colores : oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefiere-color-scheme : luz)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent. com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>### Insignias<b>Mis estadísticas de GitHub</b><a href="http://www.github.com/https://github.com/deivid2025"><img src="https://github-readme-stats.vercel.app/api?username=https ://github.com/deivid2025&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/estadísticas de GitHub de deivid2025" ></a><a href="http://www.github.com/https://github.com/deivid2025"><img src="https://github-readme-activity-graph.ciclic.app/graph?username =https://github.com/deivid2025&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Gráfico de confirmaciones de GitHub" /></a><a href="https://github.com/https://github.com/deivid2025" align="left"><img src="https://github-readme-stats.vercel.app/api/ top-langs/?username=https://github.com/deivid2025&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Idiomas principales" /></a>### Apoyarme<ul style="tipo-estilo-lista: ninguno; margen: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dei"><img src="https://cdn.buymeacoffee .com/buttons/v2/default-amarillo.png" width="150"/></a></li></ul>
