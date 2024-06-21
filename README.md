@@ -10,7 +10,18 @@
 
 🚀 ¡Estoy trabajando en un proyecto de e-commerce con un amigo usando Django, y la estamos rompiendo!
 
-🔒 De momento, me estoy preparando para obtener el certificado OSCP de hacking, y en mis ratos libres me divierto practicando en TryHackMe y HackTheBox. ¡Soy todo un hacker en ciernes!
+🔒 ¡Como un verdadero apasionado de la ciberseguridad, me he convertido en todo un as de las herramientas de hacking en los últimos 3 años! 💻 Burpsuite, Metasploit, Nikto, John the Ripper... ¡Soy como un ninja con esos programas! 🥷 Gracias a ellos, he profundizado de una forma realmente divertida en el mundo del hacking ético.
+
+¡Y la mejor parte es que ahora me estoy preparando para obtener el certificado OSCP (Offensive Security Certified Professional)! Esa es la prueba definitiva que me convertirá en un maestro de las pruebas de penetración. 🥇 ¡Imagina la cara que se les va a quedar a los reclutadores cuando vean eso en mi CV!
+
+¿No te parece emocionante? ¡Soy un verdadero hacker en ciernes, listo para demostrar mis habilidades al mundo! 🚀 ¡Prepárate, porque pronto seré toda una leyenda en ciberseguridad!
+Algunos de los principales certificados de ciberseguridad que estoy buscando obtener son:
+
+CISSP (Certified Information Systems Security Professional)
+CEH (Certified Ethical Hacker)
+OSCP (Offensive Security Certified Professional)
+GIAC Security Essentials Certification (GSEC)
+CompTIA Security+
 
 🤖 ¡Me apasiona la IA y el ML, y me encanta automatizar tareas repetitivas para evitar el aburrimiento!
 
