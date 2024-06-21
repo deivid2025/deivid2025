@@ -1,4 +1,3 @@
-@@ -5,7 +5,6 @@
 
 [![ Pronouns         ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&color=eeeeee)]()
 [![ Languages        ](https://img.shields.io/badge/[%20RU%20|%20UA%20|%20EN%20]-informational?style=flat-square&color=eeeeee)]()
@@ -17,6 +16,8 @@
 [![ Code: React          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=React&logo=react)]()
 @@ -43,29 +42,38 @@
 [![ Tool: IntelliJ IDEA  ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=IntelliJ%20IDEA&logo=intellijidea)]()
+[![ Tool: WebStorm       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=WebStorm&logo=webstorm)]()
+[![ Tool: Android Studio ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Tools&message=Android%20Studio&logo=androidstudio)]()
 <br><p></p>
 
 `[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[IDA Pro]` `[Immunity Debugger]` `[edb]` ...
@@ -27,22 +28,26 @@
 	<p>My Telegram channel: <b><a href="https://t.me/hahacking">HaHacking</a></b></p>
 </div>
 <div align=center>
-	<a href="https://t.me/migrupo">
+	<a href="https://t.me/qwqoro">
 		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/telegram.svg"/>
 		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
 	</a>&nbsp;
-	<a href="https://habr.com/ru/users/miuser/">
+	<a href="https://habr.com/ru/users/qwqoro/">
 		<img width=36 height=36 alt="Habr" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/habr.svg"/>
 	</a>&nbsp;
-  <a href="https://open.spotify.com/user/miiduser">
+	<a href="https://vk.com/qwqoro">
+		<img width=36 height=36 alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/vk.svg"/>
+		<img width=36 height=36 alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/vk.svg"/>
+	</a>&nbsp;
+	<a href="https://open.spotify.com/user/312b5tdw2ettpsksk2bkp4f7bsuu">
 		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/spotify.svg"/>
 		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/spotify.svg"/>
 	</a>&nbsp;
-	<a href="https://steamcommunity.com/id/miuser">
+	<a href="https://steamcommunity.com/id/qwqoro">
 		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/steam.svg"/>
 		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/steam.svg"/>
 	</a>&nbsp;
-	<a href="https://app.hackthebox.com/profile/twentyfix">
+	<a href="https://app.hackthebox.com/profile/230798">
 		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackthebox.svg"/>
 		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
 	</a>&nbsp;
