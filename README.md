@@ -9,7 +9,7 @@
 <li>🧐 Aprendiendo sobre <strong>Ciberseguridad</strong>, <strong>sistemas distribuidos</strong> y un poco de <strong>aprendizaje automático (ML)</strong>.</li>
 <li>👨‍💻 La mayoría de mis proyectos estaran disponibles en <a href="https://github.com/deivid2025/">Github</a>.</li>
 <li>📝 Subo Contenido Mayormente en IG <a href="https://www.instagram.com/david_garay2/">IG</a>.</li>
-<li>💬 Contáctame sobre <strong>React, Koa, seguridad y temas en la nube</strong>.</li>
+<li>💬 Contáctame sobre <strong>React, seguridad y temas marketing</strong>.</li>
 <li>📙 Echa un vistazo a mi <a href="">CV</a>.</li>
 <li>🎉 Dato curioso: 我也会讲中文。</li>
 </ul>
