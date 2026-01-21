@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://landing-page-deivid-portfolio.netlify.app/">Deivid</a></h2>
 <p>Soy actualmente ingeniero de software <strong><a href="">Autodidacta</a></strong> Formándome para la certificación <strong><a href="https://www.offsec.com/courses/pen-200/">OSCP</a></strong> Estoy trabajando en un proyecto con mi compañero, además de aprender un par de nuevos platos y tratando de conquistar el mundo como jakie chan.</p>
-<p><a href="https://landing-page-deivid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Deivid.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://Deivid.me" alt="Website Badge"></a> <a href="https://medium.com/@deivid"><img src="https://img.shields.io/badge/-@deivid-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@deivid" alt="Medium Badge"></a> <a href="[https://www.linkedin.com/in/david-garay-060591304/](https://www.linkedin.com/in/david-garay-060591304/)"><img src="https://img.shields.io/badge/-@deivid-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=[https://www.linkedin.com/in/serbis/](https://www.linkedin.com/in/david-garay-060591304/)" alt="LinkedIn Badge"></a> <a href="[https://landing-page-deivid-portfolio.netlify.app/](https://www.linkedin.com/in/david-garay-060591304/)"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=[https://dev.to/spiderpig86](https://landing-page-deivid-portfolio.netlify.app/)" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/deivid"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/deivid" alt="Spotify Badge"></a></p>
+<p><a href="https://landing-page-deivid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Deivid.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://Deivid.me" alt="Website Badge"></a> <a href="https://medium.com/"><img src="https://img.shields.io/badge/-@deivid-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@deivid" alt="Medium Badge"></a> <a href="[https://www.linkedin.com/in/david-garay-060591304/](https://www.linkedin.com/in/david-garay-060591304/)"><img src="https://img.shields.io/badge/-@deivid-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=[https://www.linkedin.com/in/serbis/](https://www.linkedin.com/in/david-garay-060591304/)" alt="LinkedIn Badge"></a> <a href="[https://landing-page-deivid-portfolio.netlify.app/](https://www.linkedin.com/in/david-garay-060591304/)"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=[https://dev.to/spiderpig86](https://landing-page-deivid-portfolio.netlify.app/)" alt="DevTo Badge"></a> <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/deivid" alt="Spotify Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -15,9 +15,14 @@
 </ul>
 <h2>✒️<div align="center" width="50">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg Deivid"  width="60%"/><br> 
-  
+<img align="right"
+     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+     width="200">
+
+<img src="https://github.com/David-Garay/David-Garay/blob/main/images/dev-working_rounded.gif?raw=true"
+     alt="developer working animation"
+     width="60%"><br>
+
 <p><strong>Me encanta ampliar mis conocimientos 🧠 y estoy emocionado por nuevas oportunidades de desarrollo 🚀
 
 En ciberseguridad, me interesa la búsqueda y mitigación de vulnerabilidades web 🔒
@@ -29,12 +34,12 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 ¡Listo para asumir nuevos retos creativos e innovadores! 💻🎯.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=DavdiGM&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/migrupo) <br>
+[![telegram badge](https://img.shields.io/badge/Deivid-grey?style=flat&logo=telegram)](https://t.me/migrupo) <br>
 </div>
 
 <hr></hr>
@@ -50,7 +55,6 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
@@ -59,7 +63,6 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
@@ -76,10 +79,10 @@ class About extends Me {
   };
 }
 ```
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning ** ML & Django**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning ** ML & React**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/migrupo)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[deivid2026](https://t.me/migrupo)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
                                        
 <div align="center" >
