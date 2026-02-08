@@ -61,16 +61,19 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
+aqui que podriamos mejorar: ```dart
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "Frontend" : { "Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS", "shadcn/ui" },
-    "Backend & Database" : { "Supabase", "PostgreSQL" },
-    "Markup & Styling" : { "HTML5", "CSS3", "Markdown", "JSON" },
-    "Dev Tools & AI" : { "Git", "Cursor", "Claude Code", "Figma" },
-    "Platforms" : { "macOS", "Linux", "Windows" }
+    "ProgramingLanguages" : { "Nextjs", "Javascript", "Python", "React" },
+    "OtherLanguages" : { "HTML", "CSS", "Bas", "Json", "Markdown" },
+    "Database" : { "Supabase", "PosgestSql" },
+    "Editors" : { "Vscode", "Cursor", "Claude Code",},
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma",}
   };
 }
+```
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning ** ML & React**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
