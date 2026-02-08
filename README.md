@@ -1,7 +1,21 @@
 <h2>Hey 👋, I'm <a href="https://landing-page-deivid-portfolio.netlify.app/">Deivid</a></h2>
 <p>Soy actualmente ingeniero de software <strong><a href="">Autodidacta</a></strong> Formándome para la certificación <strong><a href="https://www.offsec.com/courses/pen-200/">OSCP</a></strong> Estoy trabajando en un proyecto con mi compañero, además de aprender un par de nuevos platos y tratando de conquistar el mundo como jakie chan.</p>
 
-<p><a href="https://open.spotify.com/user/tuusuario"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white" alt="Spotify Badge"></a></p>
+<p>
+  <a href="https://open.spotify.com/user/tuusuario"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=Spotify&logoColor=white" alt="Spotify Badge"></a>
+  <a href="https://stackoverflow.com/users/tuusuario"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"></a>
+  <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Badge"></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Badge"></a>
+  <a href="https://www.hostinger.com"><img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger Badge"></a>
+  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Badge"></a>
+  <a href="https://www.netlify.com"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify Badge"></a>
+  <a href="https://dockploy.com"><img src="https://img.shields.io/badge/Dockploy-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Dockploy Badge"></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge"></a>
+  <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Badge"></a>
+</p>
+
+
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
