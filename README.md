@@ -61,7 +61,7 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
-aqui que podriamos mejorar: ```dart
+```dart
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
