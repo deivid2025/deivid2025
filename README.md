@@ -65,12 +65,11 @@ Tengo experiencia en trabajos freelance, desarrollo de chatbots 🤖, gestión d
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Nextjs", "Javascript", "Python", "React" },
-    "OtherLanguages" : { "HTML", "CSS", "Bas", "Json", "Markdown" },
-    "Database" : { "Supabase", "PosgestSql" },
-    "Editors" : { "Vscode", "Cursor", "Claude Code",},
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma",}
+    "Frontend" : { "Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS", "shadcn/ui" },
+    "Backend & Database" : { "Supabase", "PostgreSQL" },
+    "Markup & Styling" : { "HTML5", "CSS3", "Markdown", "JSON" },
+    "Dev Tools & AI" : { "Git", "Cursor", "Claude Code", "Figma" },
+    "Platforms" : { "macOS", "Linux", "Windows" }
   };
 }
 ```
